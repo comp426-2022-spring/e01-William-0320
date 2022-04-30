@@ -49,13 +49,13 @@ hr {
 .registerbtn 
 {
   /* 17. Set the background color to navy using the hex color */
-  background-color: #202A44;
+  background-color: #000080;
   /* 18. Set the text color to white using the hex color */  
-  
+  color: white;
   padding: 16px 20px;
   margin: 8px 0;
   /* 19. Set it to have no border */
-  
+  border: none;
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
